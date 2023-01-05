@@ -1,0 +1,6 @@
+Dimeji:x:1002:1002::/home/Dimeji:/bin/bash
+Dipo:x:1003:1003::/home/Dipo:/bin/bash
+apache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin
+hubby:x:1004:1004::/home/hubby:/bin/bash
+buki:x:1005:1005::/home/buki:/bin/bash
+bukola:x:1006:1006::/home/bukola:/bin/bash

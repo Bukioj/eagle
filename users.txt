@@ -1,0 +1,5 @@
+buki:x:1005:1005::/home/buki:/bin/bash
+bukola:x:1006:1006::/home/bukola:/bin/bash
+Capri:x:1007:1007::/home/Capri:/bin/bash
+.sh:x:1008:1008::/home/.sh:/bin/bash
+Kenny:x:1009:1009::/home/Kenny:/bin/bash
