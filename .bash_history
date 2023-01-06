@@ -408,3 +408,41 @@ yum install git
 su - root
 sudo su - root
 clear
+git init
+clear
+ls
+git status
+vi app.java
+ll
+ls /home
+su -u buki
+cat -n app.java
+clear
+git status
+git add app.java
+git status
+clear
+ls
+git commit -m "first commit"
+git config --global --edit
+git config --global user.email "ojodunb@gmail.com"
+git config --global user.name "Buki Ojodun"
+git config --global --list
+git commit -m "first commit"
+git log
+git show
+echo "database connection" >>.sql
+ls
+echo "database connection" >> db.sql
+ls
+cat db.sql
+git status
+git add .
+git status 
+git commit -m "db connection created"
+git status
+git log
+git show
+clear
+git remote -v
+git remote add tt  https://github.com/EaglesMedical
